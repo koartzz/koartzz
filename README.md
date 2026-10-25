@@ -6,7 +6,10 @@ I’m Koartz, a future software engineer dedicated to learning more about techno
 
 ## Tools & Tech
 
-• HTML, CSS and JS
-• Python Basics
-• C# Basics
-• Programming logic and basic algorithms
+<li>
+  HTML, CSS and JS
+  Python Basics
+  C# Basics
+  Programming logic and basic algorithms
+</li>
+
