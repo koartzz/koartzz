@@ -9,6 +9,7 @@
 
 ## Tools & Tech
 
+<p>
 <li>
   HTML, CSS and JS
 </li>
@@ -20,4 +21,4 @@
 <li>
   Programming logic and basic algorithms
 </li>
-
+</p>
