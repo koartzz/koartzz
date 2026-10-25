@@ -8,8 +8,13 @@ I’m Koartz, a future software engineer dedicated to learning more about techno
 
 <li>
   HTML, CSS and JS
+</li>
+<li>
   Python Basics
+<li>
   C# Basics
+</li>
+<li>
   Programming logic and basic algorithms
 </li>
 
